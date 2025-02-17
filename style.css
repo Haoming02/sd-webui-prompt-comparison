@@ -1,0 +1,10 @@
+#tab_sd-webui-prompt-comparison div.image-info {
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    background-color: var(--background-fill-secondary);
+}
+
+#tab_sd-webui-prompt-comparison div.image-info .diff {
+    color: red;
+}
